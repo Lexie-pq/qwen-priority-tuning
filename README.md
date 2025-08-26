@@ -195,7 +195,7 @@ llamafactory-cli webui
 ## 12. 附录与参考链接
 - LLaMA-Factory: https://github.com/hiyouga/LLaMA-Factory  
 - 结果文档（内部仓库）：[结果文档](https://git.uusense.cn/lora/qwen-priority-tuning/tree/master/%E7%BB%93%E6%9E%9C%E6%96%87%E6%A1%A3)  
-- 数据构建说明：`Dataset Readme.md`（仓库内）
+- 数据构建说明：[dataset_readme](https://git.uusense.cn/lora/qwen-priority-tuning/blob/master/%E5%BE%AE%E8%B0%83%E6%95%B0%E6%8D%AE%E9%9B%86/dataset_readme.md)（仓库内）
 
 ---
 
@@ -345,7 +345,7 @@ llamafactory-cli webui
 ### 12. Appendix & References
 - LLaMA-Factory: https://github.com/hiyouga/LLaMA-Factory  
 - Results: [Results](https://git.uusense.cn/lora/qwen-priority-tuning/tree/master/%E7%BB%93%E6%9E%9C%E6%96%87%E6%A1%A3)  
-- Dataset build details: `Dataset Readme.md` (in repo)
+- Dataset build details: [dataset_readme](https://git.uusense.cn/lora/qwen-priority-tuning/blob/master/%E5%BE%AE%E8%B0%83%E6%95%B0%E6%8D%AE%E9%9B%86/dataset_readme.md) (in repo)
 
 ---
 
